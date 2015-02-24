@@ -1,0 +1,9 @@
+C:\Dev\scriptRunner\scriptRunner\bin\Debug\scriptRunner.exe.config
+C:\Dev\scriptRunner\scriptRunner\bin\Debug\scriptRunner.exe
+C:\Dev\scriptRunner\scriptRunner\bin\Debug\scriptRunner.pdb
+C:\Dev\scriptRunner\scriptRunner\obj\Debug\scriptRunner.csprojResolveAssemblyReference.cache
+C:\Dev\scriptRunner\scriptRunner\obj\Debug\scriptRunner.Form1.resources
+C:\Dev\scriptRunner\scriptRunner\obj\Debug\scriptRunner.Properties.Resources.resources
+C:\Dev\scriptRunner\scriptRunner\obj\Debug\scriptRunner.csproj.GenerateResource.Cache
+C:\Dev\scriptRunner\scriptRunner\obj\Debug\scriptRunner.exe
+C:\Dev\scriptRunner\scriptRunner\obj\Debug\scriptRunner.pdb
