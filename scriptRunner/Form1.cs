@@ -41,7 +41,9 @@ namespace scriptRunner
 
         private void ProcessDirectory(string path)
         {
-            string[] fileEntries = Directory.GetFiles(path);
+            string[] fileEntries = Directory.GetFiles(path,"*.sql",SearchOption.AllDirectories);
+
+
            
             
             foreach (string file in fileEntries)
